@@ -1,4 +1,5 @@
-# Things API Project
+# Lab 31: Things API Project
+### Maddie Amelia Lewis
 
 ## Overview
 
